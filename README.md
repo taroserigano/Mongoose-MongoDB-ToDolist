@@ -1,5 +1,5 @@
 # Mongoose-MongoDB-To-Do-list
-Try the working website here! : https://boiling-fjord-40503.herokuapp.com/Testing!
+Try the working website here! : https://boiling-fjord-40503.herokuapp.com/
 
 This is a sample JS app that utilizes Mongoose and MongoDB Atlas. 
 As you add more items on the website, the entered date will be saved on the
